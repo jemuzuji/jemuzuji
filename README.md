@@ -10,13 +10,3 @@ const developer = {
   learning: "Web Development",
 };
 ```
-
-### Selected projects
-
-| Project | Language |
-| :--- | :--- |
-| [PayMeBack](https://github.com/jemuzuji/PayMeBack) | TypeScript |
-| [NexcentTUPUBON](https://github.com/jemuzuji/NexcentTUPUBON) | CSS |
-| [UndercoverGames](https://github.com/jemuzuji/UndercoverGames) | HTML |
-
-[Browse my repositories →](https://github.com/jemuzuji?tab=repositories)
